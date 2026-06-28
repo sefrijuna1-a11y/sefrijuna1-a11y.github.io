@@ -132,4 +132,4 @@ box-shadow:0 5px 10px rgba(0,0,0,.3);
 
 <a href="#kontak">Kontak</a>
 
-</nav>
+</nav
