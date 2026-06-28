@@ -120,16 +120,4 @@ box-shadow:0 5px 10px rgba(0,0,0,.3);
 
 <p>Pemerhati Lingkungan dan Pegiat Pertanian Organik</p>
 
-<a href="#profil" class="btn">Tentang Saya</a>
-
-</header>
-
-<nav>
-
-<a href="#profil">Profil</a>
-
-<a href="#program">Program</a>
-
-<a href="#kontak">Kontak</a>
-
-</nav
+<a href="#profil" class="btn">Tentang Saya</a
